@@ -1,0 +1,6 @@
+poly_IncidentName,poly_GISAcres,poly_FeatureCategory,poly_MapMethod,poly_FeatureStatus,poly_IsVisible,attr_IncidentComplexityLevel,Shape__Area,Shape__Length,Latitude,Longitude
+Covington Drive,346.47,Wildfire Daily Fire Perimeter,Mixed Methods,Approved,Yes,Type 4 Incident,0.000803,0.19459,40.346243,-85.07473
+Wood Duck,6.24,Wildfire Daily Fire Perimeter,Mixed Methods,Approved,Yes,,2.8e-06,0.008991,25.600258,-72.361406
+River Road,400.0,Wildfire Daily Fire Perimeter,Auto-generated for InFORM,Approved,Yes,Type 4 Incident,0.000161,0.07824,31.600704,-119.870609
+Fifty,98.27,Wildfire Daily Fire Perimeter,Mixed Methods,Approved,Yes,Type 5 Incident,3.5e-05,0.032163,30.357058,-100.106613
+Sunrise,2.2,Wildfire Daily Fire Perimeter,Mixed Methods,Approved,Yes,,9.9e-07,0.004418,42.675309,-123.241964
