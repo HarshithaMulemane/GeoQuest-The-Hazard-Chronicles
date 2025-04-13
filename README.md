@@ -106,6 +106,8 @@ Due to ArcGIS Online free account limitations:
 
 This Story Map delivers a data-rich, interactive experience that raises awareness about the growing threat of wildfires. By turning real-time wildfire data into a visual narrative, the project supports public education and promotes proactive approaches to fire preparedness and risk reduction.
 
+Link : https://www.arcgis.com/home/item.html?id=86f88bf30e1c4d0ba259dc558c98aadf
+
 
 <img width="1470" alt="Screenshot 2025-04-12 at 6 10 32 PM" src="https://github.com/user-attachments/assets/dc85c96b-d41a-4112-bb58-fe21c7dadac0" />
 
